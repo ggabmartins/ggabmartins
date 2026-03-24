@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**ggabmartins/ggabmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Gabriel Lourenço
 
-Here are some ideas to get you started:
+**`Back-End Developer`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de ADS na FIAP e Desenvolvedor Back-end focado no ecossistema Java (Spring Boot e Quarkus). Possuo experiência prática na criação de APIs RESTful e aplicações de Clean Architecture em projetos como o HC Fácil e FlowHome. Atualmente, aprofundo meus estudos em C# .NET, persistência de dados com JPA e arquitetura de nuvem AWS.
+
+---
+
+### 🧰 Languages and Tools
+
+![My Skills](https://skillicons.dev/icons?i=git,github,java,spring,postgresql,cs,dotnet,py)
+
+
