@@ -3,7 +3,7 @@
 
 **`Back-End Developer`**
 
-Estudante de ADS na FIAP e Desenvolvedor Back-end focado no ecossistema Java (Spring Boot e Quarkus). Possuo experiência prática na criação de APIs RESTful e aplicações de Clean Architecture em projetos como o HC Fácil e FlowHome. Atualmente, aprofundo meus estudos em C# .NET, persistência de dados com JPA e arquitetura de nuvem AWS.
+Estudante de ADS na FIAP e Desenvolvedor Back-end focado no ecossistema Java (Spring Boot e Quarkus). Possuo experiência prática na criação de APIs RESTful como nos  projetos HC Fácil e FlowHome. Atualmente, aprofundo meus estudos em C# .NET, persistência de dados com JPA, arquitetura de nuvem AWS e Clean Arch.
 
 ---
 
